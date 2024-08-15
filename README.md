@@ -17,7 +17,7 @@ The effectiveness of the design was validated by charging the battery pack with 
 
 ## Features
 
-- **Bidirectional Flyback Converter:** Allows for efficient cell-to-cell energy transfer.
+- **Bidirectional Flyback Converter:** Allows efficient cell-to-common cell energy transfer.
 - **Two-Switch Bidirectional Flyback Converter:** Enables common cell-to-pack balancing.
 - **Current Control Mode:** Ensures precise regulation of converter input currents.
 
